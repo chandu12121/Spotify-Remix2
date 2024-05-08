@@ -1,0 +1,9 @@
+.home-container {
+  width: 1440px;
+  height: 2265px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #181818;
+  display: flex;
+  flex-direction: row;
+}

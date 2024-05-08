@@ -1,0 +1,30 @@
+.newreleases-images {
+  width: 166px;
+  height: 166px;
+  top: 1464px;
+  left: 130px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  color: #ffffff;
+}
+.newreleases-images-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.newreleases-names {
+  width: 150px;
+  height: 21px;
+  top: 1646px;
+  left: 385px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Assistant;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20.93px;
+  text-align: center;
+  color: #f8fafc;
+}

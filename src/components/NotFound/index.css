@@ -1,0 +1,28 @@
+.failure-container {
+  width: 836px;
+  height: 484px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 400px;
+  font-weight: 800;
+  line-height: 484.09px;
+  text-align: left;
+  background: linear-gradient(
+    359.08deg,
+    rgba(0, 188, 67, 0) -32.43%,
+    #1ed760 99.35%
+  );
+}
+.content {
+  width: 278px;
+  height: 52px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Assistant;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52.32px;
+  text-align: center;
+  background: #ffffff;
+}

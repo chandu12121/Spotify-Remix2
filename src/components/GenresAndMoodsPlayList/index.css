@@ -1,0 +1,16 @@
+.genre-moods-images {
+  width: 166px;
+  height: 166px;
+  top: 742px;
+  left: 130px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.genre-mood-images-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

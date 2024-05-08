@@ -1,0 +1,31 @@
+.editors-images {
+  width: 166px;
+  height: 166px;
+  top: 160px;
+  left: 130px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.editors-names {
+  width: 113px;
+  height: 21px;
+  top: 342px;
+  left: 157px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Assistant;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20.93px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.editor-images-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

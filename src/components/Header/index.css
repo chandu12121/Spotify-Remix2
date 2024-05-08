@@ -1,0 +1,45 @@
+.website-logo-img {
+  width: 82px;
+  height: 33px;
+  top: 24px;
+  left: 8px;
+  padding: 2px 2px 2px 2.1px;
+  gap: 0px;
+  opacity: 0px;
+}
+.logout-container {
+  width: Hug (37px) px;
+  height: Hug (56px) px;
+  gap: 4px;
+  opacity: 0px;
+}
+.logout-icon {
+  width: 36px;
+  height: 36px;
+  gap: 0px;
+  opacity: 0px;
+}
+.logout-desktop-btn {
+  width: 50px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Assistant;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15.7px;
+  text-align: center;
+}
+.nav-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 98px;
+  height: 1024px;
+  padding: 10px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #040306;
+  align-items: center;
+  
+}

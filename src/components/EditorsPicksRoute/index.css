@@ -1,0 +1,19 @@
+.editors-heading {
+  width: 300px;
+  height: 32px;
+  top: 96px;
+  left: 130px;
+  gap: 0px;
+  padding-left: 38px;
+  opacity: 0px;
+  font-family: Assistant;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: left;
+  color: #ffffff;
+}
+.images-container {
+  display: flex;
+  flex-wrap: wrap;
+}
